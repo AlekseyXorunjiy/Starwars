@@ -1,0 +1,17 @@
+.card {
+  background: #1976d2;
+  display: flex;
+  justify-content: center;
+  width: 500px;
+  cursor: pointer;
+}
+
+.link {
+  outline: none;
+  text-decoration: none;
+}
+
+.label {
+  font-weight: 700;
+  color: white;
+}

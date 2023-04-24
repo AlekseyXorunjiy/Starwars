@@ -1,0 +1,27 @@
+.title {
+  color: #1976d2;
+}
+
+.listWrapper {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-row-gap: 30px;
+  justify-items: center;
+  min-height: 500px;
+  margin-bottom: 30px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-around;
+  padding: 10px 0;
+}
+
+.loading {
+  width: 200px;
+}
+
+.paginationWrapper {
+  display: flex;
+  justify-content: center;
+}
